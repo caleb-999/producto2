@@ -1,0 +1,17 @@
+{
+  "name": "node-number-conversion",
+  "version": "1.0.0",
+  "description": "Number conversion applications in Node.js",
+  "main": "version1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["soap", "number", "conversion"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^1.0.0",
+    "@google-cloud/translate": "^8.0.0",
+    "n2words": "^1.10.0"
+  }
+}
